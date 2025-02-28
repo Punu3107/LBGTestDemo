@@ -1,2 +1,2 @@
 # LBGTestDemo
-Demo for LBG tect Test
+Demo for LBG tech Test
